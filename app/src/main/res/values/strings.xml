@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anagram</string>
+    <string name="week">Week</string>
+    <string name="medium">Medium</string>
+    <string name="strong">Strong</string>
+    <string name="very_strong">Very strong</string>
+</resources>
